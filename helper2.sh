@@ -6,7 +6,7 @@ echo "Emily White: 851-78-9427" >> mock_data.txt
 echo "Grace Lee: 410-86-8955" >> mock_data.txt
 
 
-part1="https://www.secure.eicar.org"
+part1="https://www.secure.eicar.org/"
 part2="eicar"
 part3=".com"
 
